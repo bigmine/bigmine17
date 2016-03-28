@@ -15,3 +15,5 @@ Please download the file BIGMINE2016_Template.zip for the LaTex template and sty
 For accepted papers, authors will have the opportunity to revise their papers in response to the reviewers before final submission for publication in the proceedings.
 
 Regular Papers submission deadline: May 16th 23:59PM.
+
+[Sumission site](https://easychair.org/conferences/?conf=bigmine2016)
