@@ -1,0 +1,51 @@
+# Site wide configuration
+
+title: BigMine 2016
+locale: en_US
+description: 5th International Workshop on Big Data, Streams and Heterogeneous Source Mining- Algorithms, Systems, Programming Models and Applications.
+logo: site-logo.png
+search_omit: true
+url: http://localhost:4000
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+# Format titles with titlecase?
+titlecase: false
+
+# Site owner
+owner:
+  name: BigMine 2016
+  avatar: bio-photo.jpg
+  email: you@email.com
+  disqus-shortname:
+  twitter: #username
+  facebook: #username
+  github: #username
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:

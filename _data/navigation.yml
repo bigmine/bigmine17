@@ -1,0 +1,31 @@
+# Site navigation links
+
+- title: BigMine
+  url: /
+
+- title: CFP
+  url: /cfp.html
+
+- title: Dates
+  url: /dates.html
+
+- title: Submission
+  url: /submission.html
+
+- title: Keynotes
+  url: /keynotes.html
+
+- title: Accepted papers
+  url: /accepted.html
+
+- title: Schedule
+  url: /schedule.html
+
+- title: Registration
+  url: /registration.html
+
+- title: Organization
+  url: /organization.html
+
+- title: BigMine 15
+  url: http://bigdata-mining.org/bigmine-15/
