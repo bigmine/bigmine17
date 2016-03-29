@@ -1,5 +1,5 @@
-# streamDM Website and Documentation
-This is the source for the streamDM website and documentation. It is statically generated using [jekyll](http://jekyllrb.com).
+# BigMine Website and Documentation
+This is the source for the BigMine website and documentation. It is statically generated using [jekyll](http://jekyllrb.com).
 
 ## Site Generation
 First install jekyll (assuming you have ruby installed):
@@ -30,4 +30,4 @@ To publish changes, copy the content of the `_site` directory to the streamDM we
 
 ## Testing locally
 
-To test the website locally, change `url: http://streamdm.noahlab.com.hk` to `url: http://localhost:4000` in the file _config.yml.
+To test the website locally, change `url: http://bigmine.github.io/bigmine16` to `url: http://localhost:4000` in the file _config.yml.
