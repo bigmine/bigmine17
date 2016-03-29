@@ -9,7 +9,7 @@ url: http://bigmine.github.io/bigmine16
 
 # Jekyll configuration
 
-permalink:   /:title/
+permalink:   /:title.html
 sass:
   sass_dir: _sass
   style: compressed
