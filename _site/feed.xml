@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">BigMine 2016</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://bigmine.github.io/bigmine16/feed.xml" />
+<link rel="alternate" type="text/html" href="http://bigmine.github.io/bigmine16" />
+<updated>2016-03-29T18:17:22+02:00</updated>
+<id>http://bigmine.github.io/bigmine16/</id>
+<author>
+  <name>BigMine 2016</name>
+  <uri>http://bigmine.github.io/bigmine16/</uri>
+  <email>you@email.com</email>
+</author>
+
+</feed>
