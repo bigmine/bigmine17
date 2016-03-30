@@ -27,13 +27,13 @@ titlecase: false
 owner:
   name: BigMine 2016
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: bigmine2016@easychair.org
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: #BigDataMining1
+  facebook: #BigDataMining
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: #groups/4422366/profile
   instagram: #username
   flickr: #username
   tumblr: #username
@@ -41,7 +41,7 @@ owner:
   weibo: #userid
   google:
     plus: #username
-    analytics:
+    analytics:UA-586895-5
     verify:
     ad-client:
     ad-slot:
