@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Keynotes
+title: Registration
 image:
   feature: sf.png
 ---
