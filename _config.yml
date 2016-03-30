@@ -26,23 +26,9 @@ titlecase: false
 # Site owner
 owner:
   name: BigMine 2016
-  avatar: bio-photo.jpg
   email: bigmine2016@easychair.org
-  disqus-shortname:
   twitter: #BigDataMining1
   facebook: #BigDataMining
-  github: #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #groups/4422366/profile
-  instagram: #username
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
   google:
-    plus: #username
     analytics:UA-586895-5
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
