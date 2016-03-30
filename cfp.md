@@ -10,7 +10,7 @@ Big Data Mining
 5th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications (BigMine-16)
    
 Conference Dates: August 13-17, 2016  
-Workshop Date: Aug 13, 2016  
+Workshop Date: Aug 14, 2016  
 San Francisco, US   
 
 http://www.bigdata-mining.org
