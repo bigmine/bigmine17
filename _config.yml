@@ -4,7 +4,7 @@ title: BigMine 2016
 locale: en_US
 description: 5th International Workshop on Big Data, Streams and Heterogeneous Source Mining- Algorithms, Systems, Programming Models and Applications.
 logo: site-logo.png
-search_omit: true
+search_omit: false
 url: http://bigmine.github.io/bigmine16
 
 # Jekyll configuration
@@ -37,7 +37,8 @@ titlecase: false
 owner:
   name: BigMine 2016
   email: bigmine2016@easychair.org
-  twitter: #BigDataMining1
-  facebook: #BigDataMining
+  twitter: BigDataMining1
+  facebook: BigDataMining
+  linkedin: groups/4422366
   google:
     analytics:UA-586895-5
