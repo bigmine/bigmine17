@@ -17,9 +17,9 @@ http://www.bigdata-mining.org
 
 Key dates:
 ------
-Papers due: May 16th 23:59PM Pacific Standard Time
-Acceptance notification: June 13, 2016  
-Workshop Final Paper Due: July 1, 2016  
+Papers due: May 16th 23:59PM Pacific Standard Time   
+Acceptance notification: June 13, 2016     
+Workshop Final Paper Due: July 1, 2016     
 
 Proceedings will be published as a dedicated volume of the [JMLR: Workshop and Conference Proceedings](http://jmlr.csail.mit.edu/proceedings/). 
 
