@@ -17,6 +17,6 @@ Following KDD main conference tradition, reviews are not double-blind, and autho
 
 For accepted papers, authors will have the opportunity to revise their papers in response to the reviewers before final submission for publication in the proceedings.
 
-The deadline for submission is: **May 16th 23:59PM**.
+The deadline for submission is: **May 27th 23:59PM**.
 
 Submit your paper through the [BIGMINE 2016 Sumission Site](https://easychair.org/conferences/?conf=bigmine2016).
