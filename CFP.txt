@@ -23,15 +23,19 @@ Workshop Final Paper Due: July 1, 2016
 SCOPE
 -----
 
-The goal of the workshop is to provide a forum to bring together researchers and practitioners to discuss important 
-research questions and practical challenges in big data mining and
-related areas. We invite submission of papers describing innovative research on 
-all aspects of big data mining, stream mining, knowledge discovery, data science and analytics. Novel ideas, controversial issues, open problems, 
-comparisons of competing approaches, representation of alternative viewpoints, and discussions are all strongly encouraged. 
+The goal of the workshop is to provide a forum to bring together
+researchers and practitioners to discuss important research questions
+and practical challenges in big data mining and related areas. We invite
+submission of papers describing innovative research on all aspects of
+big data mining, stream mining, knowledge discovery, data science and
+analytics. Novel ideas, controversial issues, open problems, comparisons
+of competing approaches, representation of alternative viewpoints, and
+discussions are all strongly encouraged. 
 
 Papers emphasizing theoretical foundations, algorithms, systems,
-applications, language issues, data storage and access, architecture
-are particularly encouraged. Work-in-progress papers, demos, position and visionary papers are also welcome.
+applications, language issues, data storage and access, architecture are
+particularly encouraged. Work-in-progress papers, demos, position and
+visionary papers are also welcome.
 
 We welcome submissions by authors who are new to the data mining
 research community.
@@ -72,10 +76,11 @@ results should be clear, well executed, and repeatable. Authors are
 strongly encouraged to make data and code publicly available whenever
 possible.
 
-Proceedings will be published as a dedicated volume of the JMLR
-Workshop and Conference Proceedings. This year we are accepting papers in two formats. Either
-16 pages for regular papers (i.e., as standard KDD papers), or 4-6 pages for short papers.
-See the website for more information regarding paper preparation.
+Proceedings will be published as a dedicated volume of the JMLR Workshop
+and Conference Proceedings. This year we are accepting papers in two
+formats. Either 16 pages for regular papers (i.e., as standard KDD
+papers), or 4-6 pages for short papers.  See the website for more
+information regarding paper preparation.
 
 
 WORKSHOP CHAIRS
