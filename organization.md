@@ -82,10 +82,12 @@ Program Committee
 * Themis Palpanas, University of Trento
 * Fernando Perez-Cruz, University Carlos III
 * Bernhard Pfahringer, University of Waikato
+* Abhik Ray, ESPN Inc.
 * Chandan K. Reddy, Wayne State University
 * Cyrus Shahabi, USC
 * Ashok Srivastava, NASA
 * Frederic Stahl, University of Reading
+* Huan Sun, Ohio State University
 * Jian-Tao Sun, Microsoft Research Asia
 * Jie Tang, Tsinghua University
 * Hanghang Tong, Carnegie Mellon University
