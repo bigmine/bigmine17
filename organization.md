@@ -68,6 +68,7 @@ Program Committee
 * Bart Goethals, University of Antwerp
 * Jiawei Han, University of Illinois at Urbana-Champaign
 * Marwan Hassani, Aachen University
+* Georges Hebrail, Electricité de France - EDF R&D
 * Steven C.H. Hoi, Nanyang Technological University
 * Dino Ienco, UMR TETIS, Irstea, Montpellier
 * Siddhartha Jonnalagadda, Mayo Clinic
