@@ -18,6 +18,18 @@ New York City 2014 (<a href="http://bigdata-mining.org/bigmine-14/" target="_bla
 and in Sydney 2015 (<a href="http://bigdata-mining.org/bigmine-15/" target="_blank">BigMine 15</a>),
 were all excitingly successful.
 
+Keynote Speakers:
+------------------
+<p>
+<a href=""><img src="images/CElkan.jpg" alt="Charles Elkan" width="110" height="110" class="" /></a>
+<a href=""><img src="images/JBradley.jpg" alt="Joseph Bradley" width="110" height="110" class="" /></a>
+<a href=""><img src="images/hh.png" alt="Hanghang Tong" width="110" height="110" class="" /></a>
+</p>
+
+<p>Keynote Talks: <a title="" href="">Charles Elkan(Amazon)</a>, <a title="" href="">Joseph Bradley(DataBricks SPARK)</a>, and <a title="" href="">Hanghang Tong(ASU)</a>.
+</p>
+
+
 
 Previous Keynote Speakers:
 -----------------------
