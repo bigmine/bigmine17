@@ -22,7 +22,7 @@ Keynote Speakers:
 ------------------
 <p>
 <a href=""><img src="images/CElkan.jpg" alt="Charles Elkan" width="110" height="110" class="" /></a>
-<a href=""><img src="images/JBradley.jpg" alt="Joseph Bradley" width="110" height="110" class="" /></a>
+<a href=""><img src="images/JBradley.jpg" alt="Joseph Bradley" height="110" class="" /></a>
 <a href=""><img src="images/hh.png" alt="Hanghang Tong" width="110" height="110" class="" /></a>
 </p>
 
