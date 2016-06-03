@@ -6,19 +6,17 @@ image:
 ---
 
 
-## Foundations for Scaling ML in Apache Spark
+## Joseph Bradley
 
-**Abstract**
-
-Apache Spark has become the most active open source Big Data project, and its Machine Learning library MLlib has seen rapid growth in usage.  A critical aspect of MLlib and Spark is the ability to scale: the same code used on a laptop can scale to 100’s or 1000’s of machines.  This talk will describe ongoing and future efforts to make MLlib even faster and more scalable by integrating with two key initiatives in Spark.  The first is Catalyst, the query optimizer underlying DataFrames and Datasets.  The second is Tungsten, the project for approaching bare-metal speeds in Spark via memory management, cache-awareness, and code generation.  This talk will discuss the goals, the challenges, and the benefits for MLlib users and developers.  More generally, we will reflect on the importance of integrating ML with the many other aspects of big data analysis.
-
-About MLlib: MLlib is a general Machine Learning library providing many ML algorithms, feature transformers, and tools for model tuning and building workflows.  The library benefits from integration with the rest of Apache Spark (SQL, streaming, Graph, core), which facilitates ETL, streaming, and deployment.  It is used in both ad hoc analysis and production deployments throughout academia and industry.
-
-**Bio**
+**Title:** Foundations for Scaling ML in Apache Spark
 
 <a href=""><img src="images/JBradley.jpg" alt="Joseph Bradley" height="80" width="80" class="" /></a>
 
 Joseph Bradley is a Software Engineer and Apache Spark PMC member working on machine learning and graph processing at Databricks. Previously, he was a postdoc at UC Berkeley after receiving his Ph.D. in Machine Learning from Carnegie Mellon U. in 2013. His research included probabilistic graphical models, parallel sparse regression, and aggregation mechanisms for peer grading in MOOCs.
+
+**Abstract:** Apache Spark has become the most active open source Big Data project, and its Machine Learning library MLlib has seen rapid growth in usage.  A critical aspect of MLlib and Spark is the ability to scale: the same code used on a laptop can scale to 100’s or 1000’s of machines.  This talk will describe ongoing and future efforts to make MLlib even faster and more scalable by integrating with two key initiatives in Spark.  The first is Catalyst, the query optimizer underlying DataFrames and Datasets.  The second is Tungsten, the project for approaching bare-metal speeds in Spark via memory management, cache-awareness, and code generation.  This talk will discuss the goals, the challenges, and the benefits for MLlib users and developers.  More generally, we will reflect on the importance of integrating ML with the many other aspects of big data analysis.
+
+About MLlib: MLlib is a general Machine Learning library providing many ML algorithms, feature transformers, and tools for model tuning and building workflows.  The library benefits from integration with the rest of Apache Spark (SQL, streaming, Graph, core), which facilitates ETL, streaming, and deployment.  It is used in both ad hoc analysis and production deployments throughout academia and industry.
 
 
 ## Inside the Atoms: Mining a Network of Networks and Beyond.
