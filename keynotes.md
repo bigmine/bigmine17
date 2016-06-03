@@ -6,7 +6,7 @@ image:
 ---
 
 
-## Joseph Bradley
+## Joseph Bradley -- Apache Spark PMC
 
 **Title:** Foundations for Scaling ML in Apache Spark
 
@@ -19,14 +19,14 @@ Joseph Bradley is a Software Engineer and Apache Spark PMC member working on mac
 About MLlib: MLlib is a general Machine Learning library providing many ML algorithms, feature transformers, and tools for model tuning and building workflows.  The library benefits from integration with the rest of Apache Spark (SQL, streaming, Graph, core), which facilitates ETL, streaming, and deployment.  It is used in both ad hoc analysis and production deployments throughout academia and industry.
 
 
-## Inside the Atoms: Mining a Network of Networks and Beyond.
-
-**Abstract** Networks (i.e., graphs) appears in many high-impact applications. Often these networks are collected from different sources, at different times, at different granularities. In this talk, I will present our recent work on mining such multiple networks. First, we will present two models - one on modeling a set of inter-connected networks (NoN); and the other on modeling a set of inter-connected co-evolving time series (NoT). For both models, we will show that by treating networks as context, we are able to model more complicate real-world applications. Second, we will present some algorithmic examples on how to do mining with such new models, including ranking, imputation and prediction. Finally, we will demonstrate the effectiveness of our new models and algorithms in some applications, including bioinformatics, and sensor networks.
-
-
-**Bio** 
+## Hanghang Tong -- Arizona State University 
 
 <a href=""><img src="images/hh.png" alt="Hanghang Tong" height="80" width="80" class="" /></a>
 
 Hanghang Tong is currently an assistant professor at School of Computing, Informatics, and Decision Systems Engineering (CIDSE), Arizona State University since August 2014.  Before that, he was an assistant professor at Computer Science Department, City College, City University of New York, a research staff member at IBM T.J. Watson Research Center and a Post-doctoral fellow in Carnegie Mellon University. He received his M.Sc and Ph.D. degree from Carnegie Mellon University in 2008 and 2009, both majored in Machine Learning. His research interest is in large scale data mining for graphs and multimedia. He has received several awards, including one ‘test of time’ award (ICDM 10-Year highest impact paper award), four best paper awards and four ‘best of conference’. He has published over 100 referred articles and more than 20 patents.
+
+**Title:** Inside the Atoms: Mining a Network of Networks and Beyond.
+
+**Abstract:** Networks (i.e., graphs) appears in many high-impact applications. Often these networks are collected from different sources, at different times, at different granularities. In this talk, I will present our recent work on mining such multiple networks. First, we will present two models - one on modeling a set of inter-connected networks (NoN); and the other on modeling a set of inter-connected co-evolving time series (NoT). For both models, we will show that by treating networks as context, we are able to model more complicate real-world applications. Second, we will present some algorithmic examples on how to do mining with such new models, including ranking, imputation and prediction. Finally, we will demonstrate the effectiveness of our new models and algorithms in some applications, including bioinformatics, and sensor networks.
+
 
