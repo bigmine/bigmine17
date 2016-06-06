@@ -6,6 +6,34 @@ image:
 ---
 
 
+## Charles Elkan -- University of California and Amazon 
+
+**Title:** From Practice to Theory in Learning from Massive Data
+
+<a href=""><img src="images/CElkan.jpg" alt="Charles Elkan" height="80" width="80" class="" /></a>
+
+Charles Elkan is a professor of computer science at the
+University of California, San Diego, currently on leave as Amazon
+Fellow and leader of machine learning for Amazon in Seattle and
+Silicon Valley. In the past, he has been a visiting associate
+professor at Harvard. His published research has been mainly in
+machine learning, data science, and computational biology; the MEME
+algorithm that he developed with Ph.D. students has been used in over
+3000 published research projects in biology and computer science. He
+is fortunate to have had inspiring undergraduate and graduate students
+who are in leadership positions now such as vice president at Google.
+
+**Abstract:** This talk will discuss examples of how Amazon applies
+machine learning to large-scale data, and open research questions
+inspired by these applications. One important question is how to
+distinguish between users that can be influenced, versus those who are
+merely likely to respond. Another question is how to measure and
+maximize the long-term benefit of movie and other recommendations. A
+third question, is how to share data while provably protecting the
+privacy of users. Note: Information in the talk is already public, and
+opinions expressed will be strictly personal.
+
+
 ## Joseph Bradley -- Apache Spark PMC
 
 **Title:** Foundations for Scaling ML in Apache Spark
