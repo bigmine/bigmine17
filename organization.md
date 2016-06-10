@@ -79,6 +79,7 @@ Program Committee
 * Jianhui Li, Computer Network Information Center,Chinese Academy of Sciences
 * Cindy Xide Lin, University of Illinois at Urbana-Champaign
 * Shou-De Lin, National Taiwan University
+* Qiang Ma, Yahoo
 * Michael May, Fraunhofer IAIS
 * Themis Palpanas, University of Trento
 * Fernando Perez-Cruz, University Carlos III
