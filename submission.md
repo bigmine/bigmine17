@@ -11,7 +11,7 @@ The maximum length of papers is **16 pages** (i.e., as standard KDD papers) for 
 
 Submitted papers may be formatted according to either the KDD format or JMLR format for reviewing. Camera-ready papers should be in JMLR format. Note that camera-ready papers may be longer than the limits set for reviewing.
 
-Please download the file [BIGMINE2016_template.zip](BIGMINE2016_template.zip) for the LaTex template and style file (or use the package directly as [provided by JMLR](http://ctan.org/tex-archive/macros/latex/contrib/jmlr). Only the LaTex preparation system is supported for publication in the JMLR Workshop and Conference Proceedings series.
+Please download the file [BIGMINE2016_template.zip](BIGMINE2016_template.zip) for the LaTex template and style file (or use the package directly as [provided by JMLR](http://ctan.org/tex-archive/macros/latex/contrib/jmlr), making sure to insert the correct volume number: 53). Only the LaTex preparation system is supported for publication in the JMLR Workshop and Conference Proceedings series.
 
 Following KDD main conference tradition, reviews are not double-blind, and author names and affiliations should be listed.
 
