@@ -7,14 +7,13 @@ image:
 
 <table border="0">
 <tbody>
-<tr> <td>8:00-8:10</td> <td>Opening Remarks</td> </tr>
-<tr> <td>8:10-8:45</td> <td>Keynote: <strong>Joseph Bradley </strong><i>Foundations for Scaling ML in Apache Spark</i></td> </tr> 
-<tr> <td>8:45-9:00</td> <td>Talk
-		Mudhar Bin Rabieah and Christos-Savvas Bouganis. FPGASVM: <i>A Framework for Accelerating Kernelized Support Vector Machine Training using FPGAs</i></td> </tr>
-<tr> <td>9:00-9:15</td> <td> Hongxia Yang, Quan Lu, Angus Xianen Qiu and Chun Han. <i>Large Scale CVR Prediction through Dynamic Transfer Learning of Global and Local Features</i></td> </tr>
-<tr> <td>9:15-9:30</td> <td> Qiang Ma, Musen Wen, Zhen Xia and Datong Chen. <i>A Sublinear, Massive-scale Look-alike Audience Extension System</i></td> </tr>
-<tr> <td>9:30-10:05</td> <td>Keynote: <strong>Hanghang Tong </strong><i> Inside the Atoms: Mining a Network of Networks and Beyond.</i></td> </tr>
-<tr> <td>10:05-10:30</td> <td>Morning Coffee Break</td> </tr>
+<tr> <td>8:00-8:05</td> <td>Opening Remarks</td> </tr>
+<tr> <td>8:05-8:40</td> <td>Keynote: <strong>Hanghang Tong </strong><i> Inside the Atoms: Mining a Network of Networks and Beyond.</i></td> </tr>
+<tr> <td>8:40-8:55</td> <td>Mudhar Bin Rabieah and Christos-Savvas Bouganis. FPGASVM: <i>A Framework for Accelerating Kernelized Support Vector Machine Training using FPGAs</i></td> </tr>
+<tr> <td>8:55-9:10</td> <td> Hongxia Yang, Quan Lu, Angus Xianen Qiu and Chun Han. <i>Large Scale CVR Prediction through Dynamic Transfer Learning of Global and Local Features</i></td> </tr>
+<tr> <td>9:10-9:25</td> <td> Qiang Ma, Musen Wen, Zhen Xia and Datong Chen. <i>A Sublinear, Massive-scale Look-alike Audience Extension System</i></td> </tr>
+<tr> <td>9:25-10:00</td> <td>Keynote: <strong>Joseph Bradley </strong><i>Foundations for Scaling ML in Apache Spark</i></td> </tr> 
+<tr> <td>10:00-10:30</td> <td>Morning Coffee Break</td> </tr>
 <tr> <td>10:30-11:05</td> <td>Keynote: <strong>Charles Elkan </strong><i>From Practice to Theory in Learning from Massive Data</i></td> </tr>
 <tr> <td>11:05-11:20</td> <td> Md Abdul Kader, Arnold P. Boedihardjo, Sheikh Motahar Naim and M. Shahriar Hossain. <i>Contextual embedding for distributed representations of entities in a text corpus</i></td> </tr>
 <tr> <td>11:20-11:35</td> <td> Manan Shah. <i>Disease Propagation in Social Networks: A Novel Study of Infection Genesis and Spread on Twitter</i></td> </tr>
