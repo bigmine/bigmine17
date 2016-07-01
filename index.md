@@ -5,9 +5,11 @@ search_omit: false
 image:
   feature: sf.png
 ---
-Proceedings are going to be published as a volume of the [*JMLR Workshop and Conference Proceedings*](http://jmlr.org/proceedings/).
+Proceedings will be published as a volume of the [*JMLR Workshop and Conference Proceedings*](http://jmlr.org/proceedings/).
 
 **5th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications**
+
+A preliminary [schedule](schedule.html) is now available.
 
 [KDD 2016](http://jmlr.org/proceedings/), August 14, San Francisco
 
@@ -27,7 +29,7 @@ Keynote Speakers:
 </p>
 
 <p>
-<a title="" href="keynotes.html">Keynote Talks</a>: <a title="" href=keynotes.html#elkan>Charles Elkan (Amazon)</a>, <a title="" href="keynotes.html#brad">Joseph Bradley (DataBricks, Apache Spark)</a>, and <a title="" href="keynotes.html#tong">Hanghang Tong (ASU)</a>.
+<a title="" href="keynotes.html">Keynote Talks</a>: <a title="" href="keynotes.html#elkan">Charles Elkan (Amazon)</a>, <a title="" href="keynotes.html#brad">Joseph Bradley (DataBricks, Apache Spark)</a>, and <a title="" href="keynotes.html#tong">Hanghang Tong (ASU)</a>.
 </p>
 
 Previous Keynote Speakers:
