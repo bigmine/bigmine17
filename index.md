@@ -5,13 +5,14 @@ search_omit: false
 image:
   feature: sf.png
 ---
-Proceedings will be published as a volume of the [*JMLR Workshop and Conference Proceedings*](http://jmlr.org/proceedings/).
 
 **5th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications**
 
-A preliminary [schedule](schedule.html) is now available.
-
 [KDD 2016](http://jmlr.org/proceedings/), August 14, San Francisco
+
+Proceedings will be published as a volume of the [*JMLR Workshop and Conference Proceedings*](http://jmlr.org/proceedings/).
+
+A preliminary [schedule](schedule.html) is now available.
 
 Previous KDD BigMines in 
 Beijing 2012 (<a href="http://bigdata-mining.org/bigmine-12/" target="_blank">BigMine 12</a>)
