@@ -6,7 +6,7 @@ image:
 ---
 
 
-## Charles Elkan -- University of California and Amazon 
+## Charles Elkan -- University of California and Amazon  <a name="elkan"></a>
 
 **Title:** From Practice to Theory in Learning from Massive Data
 
@@ -34,7 +34,7 @@ privacy of users. Note: Information in the talk is already public, and
 opinions expressed will be strictly personal.
 
 
-## Joseph Bradley -- Apache Spark PMC
+## Joseph Bradley -- Apache Spark PMC <a name="brad"></a>
 
 **Title:** Foundations for Scaling ML in Apache Spark
 
