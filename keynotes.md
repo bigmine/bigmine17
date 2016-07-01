@@ -47,7 +47,7 @@ Joseph Bradley is a Software Engineer and Apache Spark PMC member working on mac
 About MLlib: MLlib is a general Machine Learning library providing many ML algorithms, feature transformers, and tools for model tuning and building workflows.  The library benefits from integration with the rest of Apache Spark (SQL, streaming, Graph, core), which facilitates ETL, streaming, and deployment.  It is used in both ad hoc analysis and production deployments throughout academia and industry.
 
 
-## Hanghang Tong -- Arizona State University 
+## Hanghang Tong -- Arizona State University <a name="tong"></a>
 
 **Title:** Inside the Atoms: Mining a Network of Networks and Beyond.
 
