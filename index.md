@@ -26,9 +26,7 @@ Keynote Speakers:
 <a href="keynotes.html#tong"><img src="images/hh.png" alt="Hanghang Tong" height="120" width="120" class="" /></a>
 </p>
 
-<p>Keynote Talks: <a title="" href=keynotes.html)</a>, <a title="" href="">Joseph Bradley (DataBricks, Apache Spark)</a>, and <a title="" href="keynotes.html#tong">Hanghang Tong (ASU)</a>.
-</p>
-
+<p><a href=keynotes.html>Keynote Talks</a>: <a title="" href=keynotes.html#elkan)>Charles Elkan (Amazon)</a>, <a title="" href="keynotes.html#brad">Joseph Bradley (DataBricks, Apache Spark)</a>, and <a title="" href="keynotes.html#tong">Hanghang Tong (ASU)</a>.
 
 Previous Keynote Speakers:
 -----------------------
