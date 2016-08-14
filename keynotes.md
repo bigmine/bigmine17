@@ -23,6 +23,8 @@ algorithm that he developed with Ph.D. students has been used in over
 is fortunate to have had inspiring undergraduate and graduate students
 who are in leadership positions now such as vice president at Google.
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/x5RwGgrmjjn3UP" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/BigDataMining/from-practice-to-theory-in-learning-from-massive-data-by-charles-elkan-at-bigmine16" title="From Practice to Theory in Learning from Massive Data by Charles Elkan at BigMine16" target="_blank">From Practice to Theory in Learning from Massive Data by Charles Elkan</a> </strong> at <strong><a target="_blank" href="//www.slideshare.net/BigDataMining">BigMine16</a></strong> </div>
+
 **Abstract:** This talk will discuss examples of how Amazon applies
 machine learning to large-scale data, and open research questions
 inspired by these applications. One important question is how to
@@ -36,13 +38,13 @@ opinions expressed will be strictly personal.
 
 ## Joseph Bradley -- Apache Spark PMC <a name="brad"></a>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/f65lafk9qdkbIK" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/BigDataMining/foundations-for-scaling-ml-in-apache-spark-by-joseph-bradley-at-bigmine16" title="Foundations for Scaling ML in Apache Spark by Joseph Bradley at BigMine16" target="_blank">Foundations for Scaling ML in Apache Spark by Joseph Bradley at BigMine16</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/BigDataMining">BigMine</a></strong> </div>
-
 **Title:** Foundations for Scaling ML in Apache Spark
 
 <a href=""><img src="images/JBradley.jpg" alt="Joseph Bradley" height="80" width="80" class="" /></a>
 
 Joseph Bradley is a Software Engineer and Apache Spark PMC member working on machine learning and graph processing at Databricks. Previously, he was a postdoc at UC Berkeley after receiving his Ph.D. in Machine Learning from Carnegie Mellon U. in 2013. His research included probabilistic graphical models, parallel sparse regression, and aggregation mechanisms for peer grading in MOOCs.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/f65lafk9qdkbIK" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/BigDataMining/foundations-for-scaling-ml-in-apache-spark-by-joseph-bradley-at-bigmine16" title="Foundations for Scaling ML in Apache Spark by Joseph Bradley at BigMine16" target="_blank">Foundations for Scaling ML in Apache Spark by Joseph Bradley</a> </strong> at <strong><a target="_blank" href="//www.slideshare.net/BigDataMining">BigMine16</a></strong> </div>
 
 **Abstract:** Apache Spark has become the most active open source Big Data project, and its Machine Learning library MLlib has seen rapid growth in usage.  A critical aspect of MLlib and Spark is the ability to scale: the same code used on a laptop can scale to 100’s or 1000’s of machines.  This talk will describe ongoing and future efforts to make MLlib even faster and more scalable by integrating with two key initiatives in Spark.  The first is Catalyst, the query optimizer underlying DataFrames and Datasets.  The second is Tungsten, the project for approaching bare-metal speeds in Spark via memory management, cache-awareness, and code generation.  This talk will discuss the goals, the challenges, and the benefits for MLlib users and developers.  More generally, we will reflect on the importance of integrating ML with the many other aspects of big data analysis.
 
