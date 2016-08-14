@@ -36,6 +36,8 @@ opinions expressed will be strictly personal.
 
 ## Joseph Bradley -- Apache Spark PMC <a name="brad"></a>
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/f65lafk9qdkbIK" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/BigDataMining/foundations-for-scaling-ml-in-apache-spark-by-joseph-bradley-at-bigmine16" title="Foundations for Scaling ML in Apache Spark by Joseph Bradley at BigMine16" target="_blank">Foundations for Scaling ML in Apache Spark by Joseph Bradley at BigMine16</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/BigDataMining">BigMine</a></strong> </div>
+
 **Title:** Foundations for Scaling ML in Apache Spark
 
 <a href=""><img src="images/JBradley.jpg" alt="Joseph Bradley" height="80" width="80" class="" /></a>
