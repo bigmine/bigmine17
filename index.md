@@ -21,15 +21,6 @@ were all excitingly successful.
 
 Previous Keynote Speakers:
 -----------------------
-<p>
-<a href=""><img src="images/CElkan.jpg" alt="Charles Elkan" height="120" width="120" class="" /></a>
-<a href=""><img src="images/JBradley.jpg" alt="Joseph Bradley" height="120" width="120" class="" /></a>
-<a href="keynotes.html#tong"><img src="images/hh.png" alt="Hanghang Tong" height="120" width="120" class="" /></a>
-</p>
-
-<p>
-<a title="" href="keynotes.html">Keynote Talks</a>: <a title="" href="keynotes.html#elkan">Charles Elkan (Amazon)</a>, <a title="" href="keynotes.html#brad">Joseph Bradley (DataBricks, Apache Spark)</a>, and <a title="" href="keynotes.html#tong">Hanghang Tong (ASU)</a>.
-</p>
 <p><img src="http://bigdata-mining.org/bigmine-12/wp-content/uploads/2013/04/Usama-Fayyad-150x150.jpg" alt="Usama Fayad" height="105" /> 
 <img src="http://bigdata-mining.org/bigmine-12/wp-content/uploads/2013/04/headshot_Bharat_Rao-150x150.jpg" alt="Bharat Rao" height="105" /> 
 <img src="http://bigdata-mining.org/bigmine-12/wp-content/uploads/2013/04/Guirong.jpg" alt="Guirong Xue" height="100" /> 
@@ -39,6 +30,11 @@ Previous Keynote Speakers:
 <img src="http://bigdata-mining.org/bigmine-13/wp-content/uploads/2013/07/hong-cheng.jpg" alt="Hong Cheng" width="115" /> 
 </p><p>
 <a href="http://bigdata-mining.org/bigmine-14/keynotes/#lin"><img src="http://bigdata-mining.org/bigmine-14/wp-content/uploads/2014/08/lin.png" alt="lin" width="110" height="110" class="alignnone size-thumbnail wp-image-210" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#morik"><img src="http://bigdata-mining.org/bigmine-14/wp-content/uploads/2014/08/morik-150x150.png" alt="morik" width="110" height="110" class="alignnone size-thumbnail wp-image-212" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#ye"><img src="http://bigdata-mining.org/bigmine-14/wp-content/uploads/2014/08/jye-145x150.png" alt="jye" width="110" height="110" class="alignnone size-thumbnail wp-image-211" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#gao"><img src="http://bigdata-mining.org/bigmine-14/wp-content/uploads/2014/08/jgao-150x150.png" alt="jgao" width="110" height="110" class="alignnone size-thumbnail wp-image-209" /></a>
+</p>
+<p>
+<a href=""><img src="images/CElkan.jpg" alt="Charles Elkan" height="120" width="120" class="" /></a>
+<a href=""><img src="images/JBradley.jpg" alt="Joseph Bradley" height="120" width="120" class="" /></a>
+<a href="keynotes.html#tong"><img src="images/hh.png" alt="Hanghang Tong" height="120" width="120" class="" /></a>
 </p>
 
 <img src="http://bigdata-mining.org/bigmine-15/wp-content/uploads/2015/08/Bernhard-e1438846918614.png" alt="Bernhard Pfahringer"  width="100"  />
