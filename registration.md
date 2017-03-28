@@ -5,5 +5,5 @@ image:
   feature: sf.png
 ---
 
-To be announced.
+TBA
 

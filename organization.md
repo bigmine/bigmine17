@@ -16,8 +16,8 @@ Telecom-ParisTech
 E-mail: albert.bifet at telecom-paristech.fr
 
 * Jesse Read  
-Telecom-ParisTech  
-E-mail: jesse.read at telecom-paristech.fr
+École Polytechnique
+E-mail: jesse.read at polytechnique.edu
 
 * Qiang Yang  
 Hong Kong University of Science and Technology  
@@ -37,7 +37,7 @@ Organizers
 * Geoff Holmes, University of Waikato
 * Latifur Khan, University of Texas at Dallas
 * Dekang Lin, Google
-* Jesse Read, Telecom ParisTech
+* Jesse Read, École Polytechnique
 * Deepak Turaga, IBM T.J. Watson Research
 * Qiang Yang, Hong Kong University of Science and Technology
 * Philip Yu, University of Illinois at Chicago
