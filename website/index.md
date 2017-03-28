@@ -1,16 +1,18 @@
 ---
 layout: page
-title: #BigDataMining BigMine 16
+title: #BigDataMining BigMine 17
 search_omit: true
 image:
   feature: sf.png
 ---
-BigMine 16
+BigMine 17
 ========
 
+<!--
 Proceedings will be published as a volume of the [JMLR Workshop and Conference Proceedings](http://jmlr.org/proceedings/).
+-->
 
-**5th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications**
+**6th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications**
 
 [KDD 2016](http://jmlr.org/proceedings/), August 13, San Francisco
 
