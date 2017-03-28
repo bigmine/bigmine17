@@ -1,28 +1,26 @@
 ---
 layout: main-page
-title: #BigDataMining BigMine 16
+title: #BigDataMining BigMine 17
 search_omit: false
 image:
   feature: sf.png
 ---
 
-**5th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications**
+**6th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications**
 
-[KDD 2016](http://jmlr.org/proceedings/), August 14, San Francisco
-
-Proceedings will be published as a volume of the [*JMLR Workshop and Conference Proceedings*](http://jmlr.org/proceedings/).
-
-A preliminary [schedule](schedule.html) is now available.
+[KDD 2017](http://jmlr.org/proceedings/), August 13, Halifax, Nova Scotia, Canada
 
 Previous KDD BigMines in 
 Beijing 2012 (<a href="http://bigdata-mining.org/bigmine-12/" target="_blank">BigMine 12</a>)
 Chicago 2013 (<a href="http://bigdata-mining.org/bigmine-13/" target="_blank">BigMine 13</a>)
 New York City 2014 (<a href="http://bigdata-mining.org/bigmine-14/" target="_blank">BigMine 14</a>)
-and in Sydney 2015 (<a href="http://bigdata-mining.org/bigmine-15/" target="_blank">BigMine 15</a>),
+Sydney 2015 (<a href="http://bigdata-mining.org/bigmine-15/" target="_blank">BigMine 15</a>),
+and in San Francisco 2015 (<a href="https://github.com/bigmine/bigmine16" target="_blank">BigMine 16</a>),
 were all excitingly successful.
 
-Keynote Speakers:
-------------------
+
+Previous Keynote Speakers:
+-----------------------
 <p>
 <a href=""><img src="images/CElkan.jpg" alt="Charles Elkan" height="120" width="120" class="" /></a>
 <a href=""><img src="images/JBradley.jpg" alt="Joseph Bradley" height="120" width="120" class="" /></a>
@@ -32,9 +30,6 @@ Keynote Speakers:
 <p>
 <a title="" href="keynotes.html">Keynote Talks</a>: <a title="" href="keynotes.html#elkan">Charles Elkan (Amazon)</a>, <a title="" href="keynotes.html#brad">Joseph Bradley (DataBricks, Apache Spark)</a>, and <a title="" href="keynotes.html#tong">Hanghang Tong (ASU)</a>.
 </p>
-
-Previous Keynote Speakers:
------------------------
 <p><img src="http://bigdata-mining.org/bigmine-12/wp-content/uploads/2013/04/Usama-Fayyad-150x150.jpg" alt="Usama Fayad" height="105" /> 
 <img src="http://bigdata-mining.org/bigmine-12/wp-content/uploads/2013/04/headshot_Bharat_Rao-150x150.jpg" alt="Bharat Rao" height="105" /> 
 <img src="http://bigdata-mining.org/bigmine-12/wp-content/uploads/2013/04/Guirong.jpg" alt="Guirong Xue" height="100" /> 
@@ -58,10 +53,10 @@ Our ability to collect data in various sensors, devices, formats, either from in
 
  > The IoT and Big Data challenge that has been considered as one of the most exciting opportunities in the past 10 years.
 
-* Paper Submission deadline: May 27th, 2016, 23:59PM Pacific Standard Time
-* Acceptance notification: June 22, 2016
-* Workshop Final Paper Due: July 6, 2016
-* Workshop: August 14, 2016
+* Paper Submission deadline: May 26th, 2017, 23:59PM Pacific Standard Time
+* Acceptance notification: June 16, 2017
+* Workshop Final Paper Due: June 30, 2017
+* Workshop: August 13, 2017
 
 Sponsors & Supporters:
 -----------------
