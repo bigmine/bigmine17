@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: BigMine 2016
+title: BigMine 2017
 locale: en_US
-description: 5th International Workshop on Big Data, Streams and Heterogeneous Source Mining- Algorithms, Systems, Programming Models and Applications.
+description: 6th International Workshop on Big Data, Streams and Heterogeneous Source Mining- Algorithms, Systems, Programming Models and Applications.
 logo: site-logo.png
 search_omit: false
 url: http://bigmine.github.io/bigmine16
@@ -35,7 +35,7 @@ titlecase: false
 
 # Site owner
 owner:
-  name: BigMine 2016
+  name: BigMine 2017
   email: bigmine2016@easychair.org
   twitter: BigDataMining1
   facebook: BigDataMining
