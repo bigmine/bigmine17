@@ -21,9 +21,9 @@ Previous KDD BigMines in
 
 Previous Keynote Speakers:
 -----------------------
-<p><img src="http://bigdata-mining.org/bigmine-12/wp-content/uploads/2013/04/Usama-Fayyad-150x150.jpg" alt="Usama Fayad" height="105" /> 
-<img src="http://bigdata-mining.org/bigmine-12/wp-content/uploads/2013/04/headshot_Bharat_Rao-150x150.jpg" alt="Bharat Rao" height="105" /> 
-<img src="http://bigdata-mining.org/bigmine-12/wp-content/uploads/2013/04/Guirong.jpg" alt="Guirong Xue" height="100" /> 
+<p><img src="Usama-Fayyad-150x150.jpg" alt="Usama Fayad" height="105" /> 
+<img src="headshot_Bharat_Rao-150x150.jpg" alt="Bharat Rao" height="105" /> 
+<img src="Guirong.jpg" alt="Guirong Xue" height="100" /> 
 </p><p>
 <img src="http://bigdata-mining.org/bigmine-13/wp-content/uploads/2013/06/hanj_tour.jpg" alt="Jiawei Han" width="125" /> 
 <img src="http://bigdata-mining.org/bigmine-13/wp-content/uploads/2013/07/cf4.jpg" alt="Christos Faloutsos" width="140" /> 
