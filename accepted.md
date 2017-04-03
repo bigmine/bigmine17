@@ -2,7 +2,7 @@
 layout: page
 title: Accepted Papers
 image:
-  feature: sf.png
+  feature: sf1.png
 ---
 
 TBA

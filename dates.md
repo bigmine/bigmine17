@@ -2,7 +2,7 @@
 layout: page
 title: Dates 
 image:
-  feature: sf.png
+  feature: sf1.png
 ---
 
 * Paper Submission deadline: May 27th, 2016 (23:59PM Pacific Standard Time)
