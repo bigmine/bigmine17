@@ -25,9 +25,9 @@ Previous Keynote Speakers:
 <img src="headshot_Bharat_Rao-150x150.jpg" alt="Bharat Rao" height="105" /> 
 <img src="Guirong.jpg" alt="Guirong Xue" height="100" /> 
 </p><p>
-<img src="http://bigdata-mining.org/bigmine-13/wp-content/uploads/2013/06/hanj_tour.jpg" alt="Jiawei Han" width="125" /> 
-<img src="http://bigdata-mining.org/bigmine-13/wp-content/uploads/2013/07/cf4.jpg" alt="Christos Faloutsos" width="140" /> 
-<img src="http://bigdata-mining.org/bigmine-13/wp-content/uploads/2013/07/hong-cheng.jpg" alt="Hong Cheng" width="115" /> 
+<img src="hanj_tour.jpg" alt="Jiawei Han" width="125" /> 
+<img src="cf4.jpg" alt="Christos Faloutsos" width="140" /> 
+<img src="hong-cheng.jpg" alt="Hong Cheng" width="115" /> 
 </p><p>
 <a href="http://bigdata-mining.org/bigmine-14/keynotes/#lin"><img src="http://bigdata-mining.org/bigmine-14/wp-content/uploads/2014/08/lin.png" alt="lin" width="110" height="110" class="alignnone size-thumbnail wp-image-210" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#morik"><img src="http://bigdata-mining.org/bigmine-14/wp-content/uploads/2014/08/morik-150x150.png" alt="morik" width="110" height="110" class="alignnone size-thumbnail wp-image-212" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#ye"><img src="http://bigdata-mining.org/bigmine-14/wp-content/uploads/2014/08/jye-145x150.png" alt="jye" width="110" height="110" class="alignnone size-thumbnail wp-image-211" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#gao"><img src="http://bigdata-mining.org/bigmine-14/wp-content/uploads/2014/08/jgao-150x150.png" alt="jgao" width="110" height="110" class="alignnone size-thumbnail wp-image-209" /></a>
 </p>
