@@ -2,7 +2,7 @@
 layout: page
 title: Organization
 image:
-  feature: sf.png
+  feature: sf1.png
 ---
 
 Workshop Chairs
@@ -16,7 +16,7 @@ Telecom-ParisTech
 E-mail: albert.bifet at telecom-paristech.fr
 
 * Jesse Read  
-École Polytechnique
+École Polytechnique  
 E-mail: jesse.read at polytechnique.edu
 
 * Qiang Yang  

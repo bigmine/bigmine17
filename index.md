@@ -3,7 +3,7 @@ layout: main-page
 title: #BigDataMining BigMine 17
 search_omit: false
 image:
-  feature: sf.png
+  feature: sf1.png
 ---
 
 **6th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications**

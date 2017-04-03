@@ -2,7 +2,7 @@
 layout: page
 title: Registration
 image:
-  feature: sf.png
+  feature: sf1.png
 ---
 
 TBA

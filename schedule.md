@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 image:
-  feature: sf.png
+  feature: sf1.png
 ---
 
 More details to be announced

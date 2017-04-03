@@ -2,7 +2,7 @@
 layout: page
 title: Submission 
 image:
-  feature: sf4.png
+  feature: sf1.png
 ---
 
 Proceedings will be published as a dedicated volume of the [*JMLR: Workshop and Conference Proceedings*](http://jmlr.csail.mit.edu/proceedings/) (this is not equivalent to a regular journal issue of JMLR).

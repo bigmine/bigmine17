@@ -2,15 +2,15 @@
 layout: page
 title: Call for Papers
 image:
-  feature: sf3.png
+  feature: sf1.png
 ---
 
-Big Data Mining (KDD BigMine-16)
+Big Data Mining (KDD BigMine-17)
 ------
-5th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications (BigMine-16) - a KDD2016 Workshop
+6th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications (BigMine-17) - a KDD2017 Workshop
    
-KDD2016 Conference Dates: August 13-17, 2016  
-Workshop Date: Aug 14, 2016  
+KDD2017 Conference Dates: August 13-17, 2017  
+Workshop Date: Aug 14, 2017  
 San Francisco, California
 
 http://www.bigdata-mining.org
@@ -18,8 +18,8 @@ http://www.bigdata-mining.org
 Key dates:
 ------
 Papers due: May 27th 23:59PM Pacific Standard Time   
-Acceptance notification: June 13, 2016     
-Workshop Final Paper Due: July 1, 2016     
+Acceptance notification: June 13, 2017     
+Workshop Final Paper Due: July 1, 2017     
 
 Proceedings will be published as a dedicated volume of the [JMLR: Workshop and Conference Proceedings](http://jmlr.csail.mit.edu/proceedings/). 
 

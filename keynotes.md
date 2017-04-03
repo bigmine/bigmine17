@@ -2,7 +2,7 @@
 layout: page
 title: Keynotes
 image:
-  feature: sf.png
+  feature: sf1.png
 ---
 
 TBA
