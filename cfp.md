@@ -7,25 +7,28 @@ image:
 
 Big Data Mining (KDD BigMine-17)
 ------
-6th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications (BigMine-17) - a KDD2017 Workshop
+7th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications (BigMine-17) - a KDD2017 Workshop
    
 KDD2017 Conference Dates: August 13-17, 2017  
 Workshop Date: Aug 14, 2017  
-San Francisco, California
+Halifax, Nova Scotia
 
 http://www.bigdata-mining.org
 
 Key dates:
 ------
-Papers due: May 27th 23:59PM Pacific Standard Time   
+Papers due: May 26th 23:59PM Pacific Standard Time   
 Acceptance notification: June 13, 2017     
 Workshop Final Paper Due: July 1, 2017     
+
+<!-- 
 
 Proceedings will be published as a dedicated volume of the [JMLR: Workshop and Conference Proceedings](http://jmlr.csail.mit.edu/proceedings/). 
 
 This year we are accepting papers in two formats. Either
 16 pages (i.e., as standard KDD papers) for regular papers, or 4-6 pages for short papers.
 See [the submission site](submission.html) for full details regarding paper preparation and submission guidelines.
+-->
 
 The goal of the workshop is to provide a forum to discuss important research questions and practical challenges in big data mining and related areas. Novel ideas, controversial issues, open problems and comparisons of competing approaches are strongly encouraged. Representation of alternative viewpoints and discussions are also particularly encouraged.
 
