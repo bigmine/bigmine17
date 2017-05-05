@@ -21,15 +21,15 @@ Previous KDD BigMines in
 
 Previous Keynote Speakers:
 -----------------------
-<p><img src="Usama-Fayyad-150x150.jpg" alt="Usama Fayad" height="105" /> 
-<img src="headshot_Bharat_Rao-150x150.jpg" alt="Bharat Rao" height="105" /> 
-<img src="Guirong.jpg" alt="Guirong Xue" height="100" /> 
+<p><img src="images/Usama-Fayyad-150x150.jpg" alt="Usama Fayad" height="105" /> 
+<img src="images/headshot_Bharat_Rao-150x150.jpg" alt="Bharat Rao" height="105" /> 
+<img src="images/Guirong.jpg" alt="Guirong Xue" height="100" /> 
 </p><p>
-<img src="hanj_tour.jpg" alt="Jiawei Han" width="125" /> 
-<img src="cf4.jpg" alt="Christos Faloutsos" width="140" /> 
-<img src="hong-cheng.jpg" alt="Hong Cheng" width="115" /> 
+<img src="images/hanj_tour.jpg" alt="Jiawei Han" width="125" /> 
+<img src="images/cf4.jpg" alt="Christos Faloutsos" width="140" /> 
+<img src="images/hong-cheng.jpg" alt="Hong Cheng" width="115" /> 
 </p><p>
-<a href="http://bigdata-mining.org/bigmine-14/keynotes/#lin"><img src="lin.png" alt="lin" width="110" height="110" class="alignnone size-thumbnail wp-image-210" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#morik"><img src="http://bigdata-mining.org/bigmine-14/wp-content/uploads/2014/08/morik-150x150.png" alt="morik" width="110" height="110" class="alignnone size-thumbnail wp-image-212" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#ye"><img src="http://bigdata-mining.org/bigmine-14/wp-content/uploads/2014/08/jye-145x150.png" alt="jye" width="110" height="110" class="alignnone size-thumbnail wp-image-211" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#gao"><img src="http://bigdata-mining.org/bigmine-14/wp-content/uploads/2014/08/jgao-150x150.png" alt="jgao" width="110" height="110" class="alignnone size-thumbnail wp-image-209" /></a>
+<a href="http://bigdata-mining.org/bigmine-14/keynotes/#lin"><img src="images/lin.png" alt="lin" width="110" height="110" class="alignnone size-thumbnail wp-image-210" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#morik"><img src="http://bigdata-mining.org/bigmine-14/wp-content/uploads/2014/08/morik-150x150.png" alt="morik" width="110" height="110" class="alignnone size-thumbnail wp-image-212" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#ye"><img src="http://bigdata-mining.org/bigmine-14/wp-content/uploads/2014/08/jye-145x150.png" alt="jye" width="110" height="110" class="alignnone size-thumbnail wp-image-211" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#gao"><img src="http://bigdata-mining.org/bigmine-14/wp-content/uploads/2014/08/jgao-150x150.png" alt="jgao" width="110" height="110" class="alignnone size-thumbnail wp-image-209" /></a>
 </p>
 <p>
 <a href=""><img src="images/CElkan.jpg" alt="Charles Elkan" height="120" width="120" class="" /></a>
@@ -37,10 +37,10 @@ Previous Keynote Speakers:
 <a href="keynotes.html#tong"><img src="images/hh.png" alt="Hanghang Tong" height="120" width="120" class="" /></a>
 </p>
 
-<img src="Bernhard-e1438846918614.png" alt="Bernhard Pfahringer"  width="100"  />
-<img src="bonchi.jpg" alt="Francesco Bonchi"  width="100" />
-<img src="Vincent_Tseng.jpg" alt="Vincent S. Tseng"  width="100" />
-<img src="latifur-khan.jpg" alt="Latifur Khan"  width="100"  />
+<img src="images/Bernhard-e1438846918614.png" alt="Bernhard Pfahringer"  width="100"  />
+<img src="images/bonchi.jpg" alt="Francesco Bonchi"  width="100" />
+<img src="images/Vincent_Tseng.jpg" alt="Vincent S. Tseng"  width="100" />
+<img src="images/latifur-khan.jpg" alt="Latifur Khan"  width="100"  />
 <img class="size-full wp-image-182" src="http://bigdata-mining.org/bigmine-15/wp-content/uploads/2015/07/He_Jingrui_1.png" alt="Jingrui He"  width="100"  />
 
  > This workshop aims to bring together people from both academia and industry to present their most recent work related to these issues, and exchange ideas and thoughts in order to advance this big data challenge. 
