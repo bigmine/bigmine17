@@ -29,7 +29,7 @@ Previous Keynote Speakers:
 <img src="images/cf4.jpg" alt="Christos Faloutsos" width="140" /> 
 <img src="images/hong-cheng.jpg" alt="Hong Cheng" width="115" /> 
 </p><p>
-<a href="http://bigdata-mining.org/bigmine-14/keynotes/#lin"><img src="images/lin.png" alt="lin" width="110" height="110" class="alignnone size-thumbnail wp-image-210" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#morik"><img src="morik-150x150.png" alt="morik" width="110" height="110" class="alignnone size-thumbnail wp-image-212" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#ye"><img src="jye-145x150.png" alt="jye" width="110" height="110" class="alignnone size-thumbnail wp-image-211" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#gao"><img src="jgao-150x150.png" alt="jgao" width="110" height="110" class="alignnone size-thumbnail wp-image-209" /></a>
+<a href="http://bigdata-mining.org/bigmine-14/keynotes/#lin"><img src="images/lin.png" alt="lin" width="110" height="110" class="alignnone size-thumbnail wp-image-210" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#morik"><img src="images/morik-150x150.png" alt="morik" width="110" height="110" class="alignnone size-thumbnail wp-image-212" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#ye"><img src="images/jye-145x150.png" alt="jye" width="110" height="110" class="alignnone size-thumbnail wp-image-211" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#gao"><img src="images/jgao-150x150.png" alt="jgao" width="110" height="110" class="alignnone size-thumbnail wp-image-209" /></a>
 </p>
 <p>
 <a href=""><img src="images/CElkan.jpg" alt="Charles Elkan" height="120" width="120" class="" /></a>
@@ -41,7 +41,7 @@ Previous Keynote Speakers:
 <img src="images/bonchi.jpg" alt="Francesco Bonchi"  width="100" />
 <img src="images/Vincent_Tseng.jpg" alt="Vincent S. Tseng"  width="100" />
 <img src="images/latifur-khan.jpg" alt="Latifur Khan"  width="100"  />
-<img class="size-full wp-image-182" src="He_Jingrui_1.png" alt="Jingrui He"  width="100"  />
+<img class="size-full wp-image-182" src="images/He_Jingrui_1.png" alt="Jingrui He"  width="100"  />
 
  > This workshop aims to bring together people from both academia and industry to present their most recent work related to these issues, and exchange ideas and thoughts in order to advance this big data challenge. 
 
