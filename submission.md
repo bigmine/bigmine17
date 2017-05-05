@@ -5,7 +5,7 @@ image:
   feature: sf1.png
 ---
 
-Papers should be submitted to the special issue **Big Data, IoT Streams and Heterogeneous Source Mining** of the [*International Journal of Data Science and Analytics*.](https://www.editorialmanager.com/jdsa/).
+Papers should be submitted to the special issue **Big Data, IoT Streams and Heterogeneous Source Mining** of the [*International Journal of Data Science and Analytics*](https://www.editorialmanager.com/jdsa/).
 
 Accepted papers will be presented in the workshop. Authors of accepted papers will also be given the opportunity to revise their papers in response to the reviewers' comments, and expanding the work by adding at least 20\% new material, to be considered for publication in the journal special issue.
 
