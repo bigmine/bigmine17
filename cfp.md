@@ -32,6 +32,8 @@ See [the submission site](submission.html) for full details regarding paper prep
 
 The goal of the workshop is to provide a forum to discuss important research questions and practical challenges in big data mining and related areas. Novel ideas, controversial issues, open problems and comparisons of competing approaches are strongly encouraged. Representation of alternative viewpoints and discussions are also particularly encouraged.
 
+This year authors of accepted papers, as well as presentation in the workshop, of their work will be given the opportunity to expand and revise their papers to be considered for publication in the **Big Data, IoT Streams and Heterogeneous Source Mining** of the [*International Journal of Data Science and Analytics*](https://www.editorialmanager.com/jdsa/).
+
 We invite submission of papers describing innovative research on all aspects of big data mining. Work-in-progress papers, demos, and visionary papers are also welcome.
 
 Examples of topics of interest include
