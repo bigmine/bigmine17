@@ -29,7 +29,7 @@ Previous Keynote Speakers:
 <img src="images/cf4.jpg" alt="Christos Faloutsos" width="140" /> 
 <img src="images/hong-cheng.jpg" alt="Hong Cheng" width="115" /> 
 </p><p>
-<a href="http://bigdata-mining.org/bigmine-14/keynotes/#lin"><img src="images/lin.png" alt="lin" width="110" height="110" class="alignnone size-thumbnail wp-image-210" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#morik"><img src="http://bigdata-mining.org/bigmine-14/wp-content/uploads/2014/08/morik-150x150.png" alt="morik" width="110" height="110" class="alignnone size-thumbnail wp-image-212" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#ye"><img src="http://bigdata-mining.org/bigmine-14/wp-content/uploads/2014/08/jye-145x150.png" alt="jye" width="110" height="110" class="alignnone size-thumbnail wp-image-211" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#gao"><img src="http://bigdata-mining.org/bigmine-14/wp-content/uploads/2014/08/jgao-150x150.png" alt="jgao" width="110" height="110" class="alignnone size-thumbnail wp-image-209" /></a>
+<a href="http://bigdata-mining.org/bigmine-14/keynotes/#lin"><img src="images/lin.png" alt="lin" width="110" height="110" class="alignnone size-thumbnail wp-image-210" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#morik"><img src="morik-150x150.png" alt="morik" width="110" height="110" class="alignnone size-thumbnail wp-image-212" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#ye"><img src="jye-145x150.png" alt="jye" width="110" height="110" class="alignnone size-thumbnail wp-image-211" /></a><a href="http://bigdata-mining.org/bigmine-14/keynotes/#gao"><img src="jgao-150x150.png" alt="jgao" width="110" height="110" class="alignnone size-thumbnail wp-image-209" /></a>
 </p>
 <p>
 <a href=""><img src="images/CElkan.jpg" alt="Charles Elkan" height="120" width="120" class="" /></a>
@@ -41,7 +41,7 @@ Previous Keynote Speakers:
 <img src="images/bonchi.jpg" alt="Francesco Bonchi"  width="100" />
 <img src="images/Vincent_Tseng.jpg" alt="Vincent S. Tseng"  width="100" />
 <img src="images/latifur-khan.jpg" alt="Latifur Khan"  width="100"  />
-<img class="size-full wp-image-182" src="http://bigdata-mining.org/bigmine-15/wp-content/uploads/2015/07/He_Jingrui_1.png" alt="Jingrui He"  width="100"  />
+<img class="size-full wp-image-182" src="He_Jingrui_1.png" alt="Jingrui He"  width="100"  />
 
  > This workshop aims to bring together people from both academia and industry to present their most recent work related to these issues, and exchange ideas and thoughts in order to advance this big data challenge. 
 
@@ -59,12 +59,12 @@ Sponsors & Supporters:
 <a href="http://www.netflix.com/" target="_blank">
 <img src="Netflix.png" style="width:280px;  border:0px;" alt="Netflix"></a>
 <a target="_blank" href="https://www.talkingdata.com/">
-<img alt="Talking Data" style="width:280px; border:0px;" src="http://bigdata-mining.org/bigmine-15/wp-content/uploads/2015/07/TalkingData.png">
+<img alt="Talking Data" style="width:280px; border:0px;" src="TalkingData.png">
 </a>
 <a href="https://bigml.com/" target="_blank">
 <img src="bigml_logo_72.png" style="width:280px;  hspace:20px; border:0px;" alt="BigML"></a>
 <a href="http://www.huawei.com/" target="_blank">
-<img src="http://www.huawei.com/ucmf/groups/public/documents/webasset/hw_000353.jpg" style="width:300px; hspace:20px;  border:0px;" alt="Huawei"></a>
+<img src="hw_000353.jpg" style="width:300px; hspace:20px;  border:0px;" alt="Huawei"></a>
 <a href="http://www.deloitte.com/" target="_blank">
 <img src="Deloitte.jpg" style="width:260px;  border:0px;" alt="Deloitte"></a>
 
