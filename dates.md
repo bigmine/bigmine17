@@ -5,8 +5,8 @@ image:
   feature: sf1.png
 ---
 
-* Paper Submission deadline: May 27th, 2016 (23:59PM Pacific Standard Time)
-* Acceptance notification: June 22nd, 2016
-* Workshop Final Paper Due: July 6th, 2016
-* Workshop: August 14th, 2016
+* Paper Submission deadline: May 26th, 2017, 23:59PM Pacific Standard Time
+* Acceptance notification: June 16, 2017
+* Workshop Final Paper Due: June 30, 2017
+* Workshop: August 13, 2017
 
