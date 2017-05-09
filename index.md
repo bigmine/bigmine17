@@ -59,7 +59,7 @@ Sponsors & Supporters:
 <a href="http://www.netflix.com/" target="_blank">
 <img src="images/Netflix.png" style="width:280px;  border:0px;" alt="Netflix"></a>
 <a target="_blank" href="https://www.talkingdata.com/">
-<img alt="Talking Data" style="width:280px; border:0px;" src="TalkingData.png">
+<img alt="Talking Data" style="width:280px; border:0px;" src="images/TalkingData.png">
 </a>
 <a href="https://bigml.com/" target="_blank">
 <img src="images/bigml_logo_72.png" style="width:280px;  hspace:20px; border:0px;" alt="BigML"></a>
