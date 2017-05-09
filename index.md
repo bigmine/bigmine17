@@ -57,16 +57,16 @@ Our ability to collect data in various sensors, devices, formats, either from in
 Sponsors & Supporters:
 -----------------
 <a href="http://www.netflix.com/" target="_blank">
-<img src="Netflix.png" style="width:280px;  border:0px;" alt="Netflix"></a>
+<img src="images/Netflix.png" style="width:280px;  border:0px;" alt="Netflix"></a>
 <a target="_blank" href="https://www.talkingdata.com/">
 <img alt="Talking Data" style="width:280px; border:0px;" src="TalkingData.png">
 </a>
 <a href="https://bigml.com/" target="_blank">
-<img src="bigml_logo_72.png" style="width:280px;  hspace:20px; border:0px;" alt="BigML"></a>
+<img src="images/bigml_logo_72.png" style="width:280px;  hspace:20px; border:0px;" alt="BigML"></a>
 <a href="http://www.huawei.com/" target="_blank">
-<img src="hw_000353.jpg" style="width:300px; hspace:20px;  border:0px;" alt="Huawei"></a>
+<img src="images/hw_000353.jpg" style="width:300px; hspace:20px;  border:0px;" alt="Huawei"></a>
 <a href="http://www.deloitte.com/" target="_blank">
-<img src="Deloitte.jpg" style="width:260px;  border:0px;" alt="Deloitte"></a>
+<img src="images/Deloitte.jpg" style="width:260px;  border:0px;" alt="Deloitte"></a>
 
 
 
