@@ -5,8 +5,7 @@ image:
   feature: sf1.png
 ---
 
-Big Data Mining (KDD BigMine-17)
-------
+**Big Data Mining (KDD BigMine-16)**   
 7th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications (BigMine-17) - a KDD2017 Workshop
    
 KDD2017 Conference Dates: August 13-17, 2017  
@@ -15,26 +14,27 @@ Halifax, Nova Scotia
 
 http://www.bigdata-mining.org
 
-Key dates:
-------
+
+Key Dates
+---------
+
 Papers due: May 26th 23:59PM Pacific Standard Time   
 Acceptance notification: June 13, 2017     
 Workshop Final Paper Due: July 1, 2017     
 
-<!-- 
 
-Proceedings will be published as a dedicated volume of the [JMLR: Workshop and Conference Proceedings](http://jmlr.csail.mit.edu/proceedings/). 
+Scope
+-----
 
-This year we are accepting papers in two formats. Either
-16 pages (i.e., as standard KDD papers) for regular papers, or 4-6 pages for short papers.
-See [the submission site](submission.html) for full details regarding paper preparation and submission guidelines.
--->
-
-The goal of the workshop is to provide a forum to discuss important research questions and practical challenges in big data mining and related areas. Novel ideas, controversial issues, open problems and comparisons of competing approaches are strongly encouraged. Representation of alternative viewpoints and discussions are also particularly encouraged.
-
-This year authors of accepted papers, as well as presentation in the workshop, of their work will be given the opportunity to expand and revise their papers to be considered for publication in the **Big Data, IoT Streams and Heterogeneous Source Mining** of the [*International Journal of Data Science and Analytics*](https://www.editorialmanager.com/jdsa/).
+The goal of the workshop is to provide a forum to discuss important research questions and practical challenges in big data mining and related areas. Novel ideas, controversial issues, open problems and comparisons of competing approaches are strongly encouraged. Representation of alternative viewpoints and discussions are also strongly encouraged. 
 
 We invite submission of papers describing innovative research on all aspects of big data mining. Work-in-progress papers, demos, and visionary papers are also welcome.
+
+Papers emphasizing theoretical foundations, algorithms, systems, applications, language issues, data storage and access, architecture are particularly encouraged.
+
+
+Topics
+------
 
 Examples of topics of interest include
 
@@ -50,11 +50,21 @@ Examples of topics of interest include
 * Visualization for Big Data
 * Applications: Large scale recommendation systems, social media systems, social network systems, scientific data mining, environmental, urban and other large data mining applications.
 
-Papers emphasizing theoretical foundations, algorithms, systems, applications, language issues, data storage and access, architecture are particularly encouraged.
 
-We welcome submissions by authors who are new to the data mining research community.
+Submission
+----------
 
 Submitted papers will be assessed based on their novelty, technical quality, potential impact, and clarity of writing. For papers that rely heavily on empirical evaluations, the experimental methods and results should be clear, well executed, and repeatable. Authors are strongly encouraged to make data and code publicly available whenever possible.
 
+This year, authors of accepted papers will, as well as presention in the workshop, will be given the opportunity to expand and revise their papers to be considered for publication in the Special Issue **Big Data, IoT Streams and Heterogeneous Source Mining** of the [*International Journal of Data Science and Analytics*](https://www.editorialmanager.com/jdsa/).
 
+
+Workshop Chairs
+---------------
+
+* Wei Fan, Baidu Research Big Data Lab
+* Albert Bifet, Telecom-ParisTech
+* Jesse Read, Ecole Polytechnique
+* Qiang Yang, Hong Kong University of Science and Technology
+* Philip Yu, University of Illinois at Chicago
 
