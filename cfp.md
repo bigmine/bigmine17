@@ -5,7 +5,7 @@ image:
   feature: sf1.png
 ---
 
-**Big Data Mining (KDD BigMine-16)**   
+**Big Data Mining (KDD BigMine-17)**   
 7th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications (BigMine-17) - a KDD2017 Workshop
    
 KDD2017 Conference Dates: August 13-17, 2017  
@@ -56,7 +56,7 @@ Submission
 
 Submitted papers will be assessed based on their novelty, technical quality, potential impact, and clarity of writing. For papers that rely heavily on empirical evaluations, the experimental methods and results should be clear, well executed, and repeatable. Authors are strongly encouraged to make data and code publicly available whenever possible.
 
-This year, authors of accepted papers will, as well as presention in the workshop, will be given the opportunity to expand and revise their papers to be considered for publication in the Special Issue **Big Data, IoT Streams and Heterogeneous Source Mining** of the [*International Journal of Data Science and Analytics*](https://www.editorialmanager.com/jdsa/).
+This year, authors of accepted papers will, as well as presention in the workshop, will be given the opportunity to expand and revise their papers to be considered for publication in the Special Issue Big Data, IoT Streams and Heterogeneous Source Mining of the International Journal of Data Science and Analytics.
 
 
 Workshop Chairs
