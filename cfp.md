@@ -14,6 +14,9 @@ Halifax, Nova Scotia
 
 http://www.bigdata-mining.org
 
+Associated with the Special Issue of the International Journal of Data Science and Analytics (JDSA): Big Data, IoT Streams and Heterogeneous Source Mining.
+
+
 Scope
 -----
 
@@ -22,6 +25,8 @@ The goal of the workshop is to provide a forum to discuss important research que
 We invite submission of papers describing innovative research on all aspects of big data mining. Work-in-progress papers, demos, and visionary papers are also welcome.
 
 Papers emphasizing theoretical foundations, algorithms, systems, applications, language issues, data storage and access, architecture are particularly encouraged.
+
+A Special Issue in the International Journal of Data Science and Analytics been allocated for selected papers accepted in the workshop (see below).
 
 
 Topics
@@ -55,9 +60,7 @@ Journal Track
 
 This year, authors of accepted papers will (as well as presention in the workshop) be given the opportunity to revise and expand their papers to be considered for publication in the Special Issue of the International Journal of Data Science and Analytics (JDSA): Big Data, IoT Streams and Heterogeneous Source Mining.
 
-Note that these expanded submissions will be treated as regular JDSA journal submissions with the same quality criteria as any paper accepted in the special issue will have to satisfy the high quality standards of the journal.
-
-In this view, we would also like to encourage general submissions to the Special Issue, which covers the same scope as the workshop.
+Note that these expanded submissions will be treated as regular JDSA journal submissions with the same quality criteria as any paper accepted in the special issue will have to satisfy the high quality standards of the journal. In this light, we would also like to encourage general submissions to the special issue, which covers the same scope and topics as the workshop.
 
 
 Key Dates
