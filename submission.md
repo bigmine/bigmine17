@@ -7,7 +7,7 @@ image:
 
 Papers should be submitted to the special issue **Big Data, IoT Streams and Heterogeneous Source Mining** of the [*International Journal of Data Science and Analytics*](https://www.editorialmanager.com/jdsa/).
 
-Accepted papers will be presented in the workshop. Authors of accepted papers will also be given the opportunity to revise their papers in response to the reviewers' comments, and expanding the work with new material, to be considered for publication in the journal special issue. Note that these expanded submissions will be treated as regular JDSA journal submissions with the same quality criteria and any paper accepted in the special issue will have to satisfy the high quality standards of the journal.
+Accepted papers will be presented in the workshop. Authors of accepted papers will also be given the opportunity to revise their papers in response to the reviewers' comments, and expanding the work with new material, to be considered for publication in the journal special issue. Note that these expanded submissions will be treated as regular JDSA journal submissions with the same quality criteria and any paper accepted in the special issue will have to satisfy the high standards of the journal.
 
 <!-- Proceedings will be published as a dedicated volume of the [*JMLR: Workshop and Conference Proceedings*](http://jmlr.csail.mit.edu/proceedings/) (this is not equivalent to a regular journal issue of JMLR). -->
 

@@ -52,15 +52,17 @@ Submission
 
 Submitted papers will be assessed based on their novelty, technical quality, potential impact, and clarity of writing. For papers that rely heavily on empirical evaluations, the experimental methods and results should be clear, well executed, and repeatable. Authors are strongly encouraged to make data and code publicly available whenever possible.
 
-Submissions should be limited to 16 pages (same limit as KDD). More details on submission: https://bigmine.github.io/bigmine17/submission.html
+More details on submission: https://bigmine.github.io/bigmine17/submission.html
 
 
 Journal Track
 -------------
 
-This year, authors of accepted papers will (as well as presention in the workshop) be given the opportunity to revise and expand their papers to be considered for publication in the Special Issue of the International Journal of Data Science and Analytics (JDSA): Big Data, IoT Streams and Heterogeneous Source Mining.
+The authors of accepted papers will be invited to revise and expand their papers to be considered for publication in the Special Issue of the International Journal of Data Science and Analytics (JDSA): S.I. Big Data, IoT Streams and Heterogeneous Source Mining.
 
-Note that these expanded submissions will be treated as regular JDSA journal submissions with the same quality criteria as any paper accepted in the special issue will have to satisfy the high quality standards of the journal. In this light, we would also like to encourage general submissions to the special issue, which covers the same scope and topics as the workshop.
+Note that these expanded submissions will be treated as regular JDSA journal submissions with the same quality criteria as any paper accepted in the special issue, and will have to satisfy the high standards of the journal. 
+
+We also encourage general submissions to the special issue, which covers the same scope and topics as the workshop.
 
 
 Key Dates
