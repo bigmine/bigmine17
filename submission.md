@@ -5,7 +5,7 @@ image:
   feature: sf1.png
 ---
 
-Papers should be submitted to the special issue **Big Data, IoT Streams and Heterogeneous Source Mining** of the [*International Journal of Data Science and Analytics*](https://www.editorialmanager.com/jdsa/).
+Papers should be submitted to the special issue **Big Data, IoT Streams and Heterogeneous Source Mining** of the [*International Journal of Data Science and Analytics*](https://www.editorialmanager.com/jdsa/) (JDSA).
 
 Accepted papers will be presented in the workshop. Authors of accepted papers will also be given the opportunity to revise their papers in response to the reviewers' comments, and expanding the work with new material, to be considered for publication in the journal special issue. Note that these expanded submissions will be treated as regular JDSA journal submissions with the same quality criteria and any paper accepted in the special issue will have to satisfy the high standards of the journal.
 
@@ -20,6 +20,8 @@ Submitted papers may be formatted according to the format for the *International
 <!-- Please download the file [BIGMINE2016_template.zip](BIGMINE2016_template.zip) for the LaTex template and style file (or use the package directly as [provided by JMLR](http://ctan.org/tex-archive/macros/latex/contrib/jmlr), making sure to insert the correct volume number: 53). Only the LaTex preparation system is supported for publication in the JMLR Workshop and Conference Proceedings series. -->
 
 Following KDD main conference tradition, reviews are not double-blind, and author names and affiliations should be listed.
+
+Note that there is no hard page limit, but it is expected that the *initial* submissions for the *workshop* will not be of excessive length. As a recommendation, submissions should be at least 6 pages but no longer than a regular KDD paper (equivalent 16 pages). Unnecessarily long papers may be judged as being unconcise. Accepted papers invited for consideration in the journal track should be expanded, and will be reviewed as full-length journal papers. 
 
 The deadline for submission is: **May 26th 23:59PM**.
 
