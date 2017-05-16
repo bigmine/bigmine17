@@ -6,7 +6,7 @@ image:
 ---
 
 **Big Data Mining (KDD BigMine-17)**   
-The 7th International Workshop on Big Data on Streams and Heterogeneous Source Mining - A KDD2017 Workshop
+The 6th International Workshop on Big Data on Streams and Heterogeneous Source Mining - A KDD2017 Workshop
    
 KDD2017 Conference Dates: August 13-17, 2017  
 Workshop Date: Aug 14, 2017  
