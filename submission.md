@@ -25,4 +25,6 @@ Note that there is no hard page limit, but it is expected that the *initial* sub
 
 The deadline for submission is: **May 26th 23:59PM**.
 
+Only papers submitted by the deadline will be considered for the workshop.
+
 <!-- Submit your paper through the [BIGMINE 2016 Sumission Site](https://easychair.org/conferences/?conf=bigmine2016). -->
