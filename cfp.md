@@ -69,8 +69,8 @@ Key Dates
 ---------
 
 Papers due: May 26th 23:59PM Pacific Standard Time   
-Acceptance notification: June 13, 2017     
-Workshop Final Paper Due: July 1, 2017     
+Acceptance notification: June 16, 2017     
+Workshop Final Paper Due: June 30, 2017     
 
 
 Workshop Chairs
