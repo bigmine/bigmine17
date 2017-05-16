@@ -21,7 +21,7 @@ Submitted papers may be formatted according to the format for the *International
 
 Following KDD main conference tradition, reviews are not double-blind, and author names and affiliations should be listed.
 
-Note that there is no hard page limit, but it is expected that the *initial* submissions for the *workshop* will not be of excessive length. As a recommendation, submissions should be at least 6 pages but no longer than a regular KDD paper (equivalent 16 pages). Unnecessarily long papers may be judged as being unconcise. Accepted papers invited for consideration in the journal track should be expanded, and will be reviewed as full-length journal papers. 
+Note that there is no hard page limit, but it is expected that the initial submissions for the workshop will not be longer than a regular KDD paper (equivalent 16 pages). Accepted papers invited for consideration in the journal track should be expanded, and will be reviewed as full-length journal papers.
 
 The deadline for submission is: **May 26th 23:59PM**.
 
