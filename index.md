@@ -8,7 +8,7 @@ image:
 
 **6th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications**
 
-[KDD 2017](http://jmlr.org/proceedings/), August 13, Halifax, Nova Scotia, Canada
+[KDD 2017](www.kdd.org/kdd2017/), August 13, Halifax, Nova Scotia, Canada
 
 Previous KDD BigMines in 
 
