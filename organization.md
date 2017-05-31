@@ -67,12 +67,12 @@ Program Committee
 * Fosca Giannotti, ISTI-CNR
 * Bart Goethals, University of Antwerp
 * Jiawei Han, University of Illinois at Urbana-Champaign
-* Marwan Hassani, Aachen University
+* Marwan Hassani, Eindhoven University of Technology
 * Georges Hebrail, Electricité de France - EDF R&D
 * Steven C.H. Hoi, Nanyang Technological University
 * Dino Ienco, UMR TETIS, Irstea, Montpellier
 * Siddhartha Jonnalagadda, Mayo Clinic
-* Murat Kantarcioglu, University of Texas at Dallas
+<!-- * Murat Kantarcioglu, University of Texas at Dallas -->
 * George Karypis, University of Minnesota
 * Steve Ko, SUNY at Buffalo
 * Vipin Kumar, University of Minnesota, Twin Cities
