@@ -104,5 +104,5 @@ Program Committee
 * Xifeng Yan, University of California at Santa Barbara
 * Rong Yan, Facebook
 * Aden Yuen, Tencent
-* Demetris Zeinalipour, University of Cyprus
+* Demetris Zeinalipour, Max Planck Institute for Informatics
 * Xingquan Zhu, University of Technology, Sydney
