@@ -53,11 +53,13 @@ Poster and Reception Chairs
 
 Program Committee
 ==========
+
 * Vassilis Athitsos, University of Texas at Arlington
 * Roberto Bayardo, Google
 * Francesco Bonchi, Yahoo Labs Barcelona
 * Liangliang Cao, IBM
 * Hong Cheng, The Chinese University of Hong Kong
+* Mostafa Chehreghani, Xerox
 * Alfredo Cuzzocrea, ICAR-CNR & University of Calabria
 * Ian Davidson, SUNY
 * Gianmarco De Francisci Morales, Yahoo Labs Barcelona
@@ -66,6 +68,7 @@ Program Committee
 * Ricard Gavaldà, Universitat Politècnica de Catalunya
 * Fosca Giannotti, ISTI-CNR
 * Bart Goethals, University of Antwerp
+* Heitor Gomez, Telecom ParisTech
 * Jiawei Han, University of Illinois at Urbana-Champaign
 * Marwan Hassani, Eindhoven University of Technology
 * Georges Hebrail, Electricité de France - EDF R&D
