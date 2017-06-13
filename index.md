@@ -49,10 +49,12 @@ Our ability to collect data in various sensors, devices, formats, either from in
 
  > The IoT and Big Data challenge that has been considered as one of the most exciting opportunities in the past 10 years.
 
+<!-- 
 * Paper Submission deadline: May 26th, 2017, 23:59PM Pacific Standard Time
 * Acceptance notification: June 16, 2017
 * Workshop Final Paper Due: June 30, 2017
 * Workshop: August 14, 2017
+--> 
 
 Sponsors & Supporters:
 -----------------
