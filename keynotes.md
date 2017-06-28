@@ -5,9 +5,13 @@ image:
   feature: sf1.png
 ---
 
-## Kai Chen (Hong Kong Univ. of Science & Technology) - Towards Datacenter-Scale Deep Learning with Efficient Networking 
+## Jure Leskovec (Stanford University) - Mining Online Networks and Communities
 
 ## Martin Wicke (Google) - Learning from Real-World Data with TensorFlow
+
+## Huan Liu (Arizona State University) - Big Data + Deep Learning = A Universal Solution?
+
+## Kai Chen (Hong Kong Univ. of Science & Technology) - Towards Datacenter-Scale Deep Learning with Efficient Networking 
 
 <!--
 Based on Google's experience with data processing and
@@ -28,8 +32,4 @@ holds a PhD from ETH Zurich.
 
 <img src="images/martin.jpg" alt="Martin Wicke"/> 
 -->
-
-## Jure Leskovec (Stanford University) - Mining Online Networks and Communities
-
-## Huan Liu (Arizona State University) - Big Data + Deep Learning = A Universal Solution?
 
