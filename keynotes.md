@@ -29,8 +29,7 @@ holds a PhD from ETH Zurich.
 <img src="images/martin.jpg" alt="Martin Wicke"/> 
 -->
 
-
-## Jure Leskovec (Stanford University) - 
+## Jure Leskovec (Stanford University) - Mining Online Networks and Communities
 
 ## Huan Liu (Arizona State University) - Big Data + Deep Learning = A Universal Solution?
 
