@@ -26,7 +26,7 @@ will introduce TensorFlow, and show how we can use it to solve
 problems involving large data, fast data, or uncommon deployment
 environments.
 
-| *Bio*: Martin Wicke works on TensorFlow. Before joining Google, he worked in various startups on Machine Learning, VR, and advanced manufacturing. He did research on physics simulations, sensor networks, and computational geometry at Berkeley and Stanford, and holds a PhD from ETH Zurich. | <img style="float: right;" src="images/martin.jpg"> | 
+| *Bio*: Martin Wicke works on TensorFlow. Before joining Google, he worked in various startups on Machine Learning, VR, and advanced manufacturing. He did research on physics simulations, sensor networks, and computational geometry at Berkeley and Stanford, and holds a PhD from ETH Zurich. | <img style="float: right;" src="images/martin.png"> | 
 
 <!-- <img src="images/martin.jpg" alt="Martin Wicke"/>  -->
 
