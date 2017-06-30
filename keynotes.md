@@ -9,7 +9,7 @@ image:
 
 The Internet and the Web fundamentally changed how we live our daily lives as well as broadened the scope of computer science. Today the Web is a `sensor' that captures the pulse of humanity and allows us to observe phenomena that were once essentially invisible to us. These phenomena include the social interactions and collective behavior of hundreds of millions of people, recorded at unprecedented levels of scale and resolution. Analyzing this data offers novel algorithmic as well as computational challenges. Moreover, it offers new insights into the design of information systems in the presence of complex social feedback effects, as well as a new perspective on fundamental questions in the social sciences.
 
-| *Bio*: Jure Leskovec is assistant professor of Computer Science at Stanford University. His research focuses on mining large social and information networks. Problems he investigates are motivated by large scale data, the Web and on-line media. This research has won several awards including a Microsoft Research Faculty Fellowship, the Alfred P. Sloan Fellowship and numerous best paper awards. Leskovec received his bachelor's degree in computer science from University of Ljubljana, Slovenia, and his PhD in in machine learning from the Carnegie Mellon University and postdoctoral training at Cornell University. You can follow him on Twitter @jure | ![Jure Leskovec](images/JureLeskovec.jpg =x100) <img style="float: right;" src="images/JureLeskovec.jpg"> |
+| *Bio*: Jure Leskovec is assistant professor of Computer Science at Stanford University. His research focuses on mining large social and information networks. Problems he investigates are motivated by large scale data, the Web and on-line media. This research has won several awards including a Microsoft Research Faculty Fellowship, the Alfred P. Sloan Fellowship and numerous best paper awards. Leskovec received his bachelor's degree in computer science from University of Ljubljana, Slovenia, and his PhD in in machine learning from the Carnegie Mellon University and postdoctoral training at Cornell University. You can follow him on Twitter @jure | <img style="float: right;" src="images/JureLeskovec.jpg"> |
 
 <!-- <img src="" alt="Jure Leskovec"/>  -->
 
@@ -26,7 +26,7 @@ will introduce TensorFlow, and show how we can use it to solve
 problems involving large data, fast data, or uncommon deployment
 environments.
 
-| *Bio*: Martin Wicke works on TensorFlow. Before joining Google, he worked in various startups on Machine Learning, VR, and advanced manufacturing. He did research on physics simulations, sensor networks, and computational geometry at Berkeley and Stanford, and holds a PhD from ETH Zurich. | ![Martin Wicke](images/martin.jpg) | 
+| *Bio*: Martin Wicke works on TensorFlow. Before joining Google, he worked in various startups on Machine Learning, VR, and advanced manufacturing. He did research on physics simulations, sensor networks, and computational geometry at Berkeley and Stanford, and holds a PhD from ETH Zurich. | <img style="float: right;" src="images/martin.jpg"> | 
 
 <!-- <img src="images/martin.jpg" alt="Martin Wicke"/>  -->
 
