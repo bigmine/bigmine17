@@ -12,8 +12,6 @@ The Internet and the Web fundamentally changed how we live our daily lives as we
 <img style="float: right;" src="images/JureLeskovec.jpg" width="100"> 
 | *Bio*: Jure Leskovec is assistant professor of Computer Science at Stanford University. His research focuses on mining large social and information networks. Problems he investigates are motivated by large scale data, the Web and on-line media. This research has won several awards including a Microsoft Research Faculty Fellowship, the Alfred P. Sloan Fellowship and numerous best paper awards. Leskovec received his bachelor's degree in computer science from University of Ljubljana, Slovenia, and his PhD in in machine learning from the Carnegie Mellon University and postdoctoral training at Cornell University. You can follow him on Twitter @jure |  | 
 
-<!-- <img src="" alt="Jure Leskovec"/>  -->
-
 
 ## Martin Wicke (Google) - Learning from Real-World Data with TensorFlow
 
@@ -28,15 +26,14 @@ problems involving large data, fast data, or uncommon deployment
 environments.
 
 <img style="float: right;" src="images/martin.png" width="100"> 
+| *Bio*: Martin Wicke works on TensorFlow. Before joining Google, he worked in various startups on Machine Learning, VR, and advanced manufacturing. He did research on physics simulations, sensor networks, and computational geometry at Berkeley and Stanford, and holds a PhD from ETH Zurich. | |
 
-| *Bio*: Martin Wicke works on TensorFlow. Before joining Google, he worked in various startups on Machine Learning, VR, and advanced manufacturing. He did research on physics simulations, sensor networks, and computational geometry at Berkeley and Stanford, and holds a PhD from ETH Zurich. | <img style="float: right;" src="images/martin.png" width=200> | 
 
 ## Huan Liu (Arizona State University) - Big Data + Deep Learning = A Universal Solution?
 
 "Big data is the new oil." With big data and prevalent successes of deep learning, we seem approaching a nirvana of ultimate AI faster than ever. In this talk, we examine if a universal solution that appears omnipotent is within our reach, or if we could extend its reach. We present some questions related to big data, e.g., how to algorithmically evaluate the understandability of machine-learned topics from large text data, how to make `big’ data bigger, and how we can use data to verify hypotheses that are interesting and challenging. We hope to reach an optimistic conclusion that more research issues are awaiting data miners and we shall be better equipped to advance our field with more data and newer tools. 
 
-<img style="float: right;" src="images/juanliu2014.jpg" width="100"> 
-
+<img style="float: right;" src="images/huanliu2014.jpg" width="100"> 
 | *Bio*: Dr. Huan Liu is a professor of Computer Science and Engineering at Arizona State University. He was recognized for excellence in teaching and research in Computer Science and Engineering at Arizona State University. His research interests are in data mining, machine learning, social computing, and artificial intelligence, investigating problems that arise in real-world applications with high-dimensional data of disparate forms. His well-cited publications include books, book chapters, encyclopedia entries as well as conference and journal papers. He serves on journal editorial/advisory boards and numerous conference program committees. He is a Fellow of IEEE and a member of several professional societies. http://www.public.asu.edu/~huanliu |  | 
 
 
