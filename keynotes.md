@@ -26,29 +26,16 @@ will introduce TensorFlow, and show how we can use it to solve
 problems involving large data, fast data, or uncommon deployment
 environments.
 
-| *Bio*: Martin Wicke works on TensorFlow. Before joining Google, he worked in various startups on Machine Learning, VR, and advanced manufacturing. He did research on physics simulations, sensor networks, and computational geometry at Berkeley and Stanford, and holds a PhD from ETH Zurich. | ![Martin Wicke](images/martin.jpg =x100) | 
+| *Bio*: Martin Wicke works on TensorFlow. Before joining Google, he worked in various startups on Machine Learning, VR, and advanced manufacturing. He did research on physics simulations, sensor networks, and computational geometry at Berkeley and Stanford, and holds a PhD from ETH Zurich. | ![Martin Wicke](images/martin.jpg =50x100) | 
 
 <!-- <img src="images/martin.jpg" alt="Martin Wicke"/>  -->
 
 ## Huan Liu (Arizona State University) - Big Data + Deep Learning = A Universal Solution?
 
-*Bio*: Dr. Huan Liu is a professor of Computer Science and Engineering at Arizona State University. He was recognized for excellence in teaching and research in Computer Science and Engineering at Arizona State University. His research interests are in data mining, machine learning, social computing, and artificial intelligence, investigating problems that arise in real-world applications with high-dimensional data of disparate forms. His well-cited publications include books, book chapters, encyclopedia entries as well as conference and journal papers. He serves on journal editorial/advisory boards and numerous conference program committees. He is a Fellow of IEEE and a member of several professional societies.
+"Big data is the new oil." With big data and prevalent successes of deep learning, we seem approaching a nirvana of ultimate AI faster than ever. In this talk, we examine if a universal solution that appears omnipotent is within our reach, or if we could extend its reach. We present some questions related to big data, e.g., how to algorithmically evaluate the understandability of machine-learned topics from large text data, how to make `big’ data bigger, and how we can use data to verify hypotheses that are interesting and challenging. We hope to reach an optimistic conclusion that more research issues are awaiting data miners and we shall be better equipped to advance our field with more data and newer tools. 
 
-"Big data is the new oil." With big data and prevalent successes of
-deep learning, we seem approaching a nirvana of ultimate AI faster
-than ever. In this talk, we examine if a universal solution that
-appears omnipotent is within our reach, or if we could extend its
-reach. We present some questions related to big data, e.g., how to
-algorithmically evaluate the understandability of machine-learned
-topics from large text data, how to make `big’ data bigger, and how we
-can use data to verify hypotheses that are interesting and
-challenging. We hope to reach an optimistic conclusion that more
-research issues are awaiting data miners and we shall be better
-equipped to advance our field with more data and newer tools.
+| *Bio*: Dr. Huan Liu is a professor of Computer Science and Engineering at Arizona State University. He was recognized for excellence in teaching and research in Computer Science and Engineering at Arizona State University. His research interests are in data mining, machine learning, social computing, and artificial intelligence, investigating problems that arise in real-world applications with high-dimensional data of disparate forms. His well-cited publications include books, book chapters, encyclopedia entries as well as conference and journal papers. He serves on journal editorial/advisory boards and numerous conference program committees. He is a Fellow of IEEE and a member of several professional societies. http://www.public.asu.edu/~huanliu | <img src="images/huanliu2014.jpg" alt="Han Liu" height=100, width=50/>  | 
 
-<img src="images/huanliu2014.jpg" alt="Han Liu"/> 
-
-http://www.public.asu.edu/~huanliu
 
 
 ## Kai Chen (Hong Kong Univ. of Science & Technology) - Towards Datacenter-Scale Deep Learning with Efficient Networking 
