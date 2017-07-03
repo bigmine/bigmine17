@@ -16,7 +16,7 @@ End time: 5pm
 
 Preliminary schedule:
 
-| \ \ \ \ \ \  -Time-\ \ \ \  \ \ \  | Description |
+| -Time-  | Description |
 | --- | --- |
 | 8:00 -- 8:05 | **Opening Remarks** |
 | 8:05 -- 9:00 | **Invited Talk by Kai Chen (Hong Kong Univ. of Science & Technology)** *Towards Datacenter-Scale Deep Learning with Efficient Networking* |
