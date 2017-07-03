@@ -3,10 +3,10 @@
 - title: BigMine
   url: /
 
-- title: Call for Papers
+- title: CFP
   url: /cfp.html
 
-- title: Important Dates
+- title: Dates
   url: /dates.html
 
 - title: Submission
@@ -15,14 +15,14 @@
 - title: Keynotes
   url: /keynotes.html
 
-- title: Accepted papers
-  url: /accepted.html
+  # - title: Accepted papers
+  #   url: /accepted.html
 
 - title: Schedule
   url: /schedule.html
 
-- title: Registration
-  url: /registration.html
+  # - title: Registration
+  #   url: /registration.html
 
 - title: Organization
   url: /organization.html
