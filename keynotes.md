@@ -40,7 +40,25 @@ environments.
 
 ## Kai Chen (Hong Kong Univ. of Science & Technology) - Towards Datacenter-Scale Deep Learning with Efficient Networking 
 
-TBA
+With the rapid growth of model complexity and data volume,
+deep learning systems require more and more servers to perform
+parallel training. Current deep learning systems with multiple
+servers/GPUs are usually implemented in a single cluster, which
+typically employs Infiniband fabric to support Remote Direct Memory
+Access (RDMA), so as to achieve high throughput and low latency for
+inter-server transmission. It is expected that, with ever-larger
+models and data, deep learning systems must scale to multiple
+clusters, which necessitates highly efficient inter-cluster networking
+stack with RDMA support. Since Infiniband is only suited for
+small-scale clusters of less than thousands of servers, we believe
+RDMA-over-Converged-Ethernet (RoCE) is a more appropriate networking
+technology choice for multi-cluster datacenter-scale deep learning.
+Therefore, we endeavor to incorporate RoCE for deep learning systems,
+such as Tensorflow and Tencent's Amber. In this talk, I will overview
+the technical challenges and present our progress towards
+datacenter-scale deep learning.
 
-*Bio*: TBA
+<img style="float: right;" src="images/kai.jpg" width="100"> 
+| *Bio*: Kai Chen is an Associate Professor with Department of Computer Science and Engineering, Hong Kong University of Science and Technology. He received his PhD in Computer Science from Northwestern University, Evanston IL in 2012. His research interests include networked systems design and implementation, data center networks, and networking support for cloud, big-data and deep-learning/AI systems.  He values practical system research, has published in various top venues such as SIGCOMM and NSDI, and is now actively working with IT companies such as Tencent, Huawei, Microsoft, Nvidia, etc., to translate his research into practice. | |
+
 
